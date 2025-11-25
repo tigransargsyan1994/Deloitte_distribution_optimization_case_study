@@ -1,7 +1,5 @@
 # Deloitte_distribution_optimization_case_study
 
-# Deloitte_distribution_optimization_case_study
-
 This repository contains my solution to a distribution network optimization case study, prepared for an interview with Deloitte.
 
 The objective of the case is to analyse and optimize the distribution of building materials from three production sites (Z1, Z2, Z3) to a set of customers, based on historical 2017 shipment data. All work is done in Python in a Jupyter Notebook, combining exploratory analysis, visualization and a linear optimization model.
